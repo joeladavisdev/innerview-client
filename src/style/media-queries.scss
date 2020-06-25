@@ -1,0 +1,22 @@
+@media (max-width: 615px) {
+    body {
+        margin: 0px;
+    }
+    
+    .nav-wrapper {
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+    
+    }
+
+    .nav-wrapper ul {
+        flex-direction: column;
+        margin: 0px;
+    } 
+
+    .nav-wrapper li {
+        padding-bottom: 5px;
+        
+    }
+}
